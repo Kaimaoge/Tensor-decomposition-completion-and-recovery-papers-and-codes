@@ -6,7 +6,12 @@ Kolda, Tamara G., and Brett W. Bader. "Tensor decompositions and applications." 
 
 Cichocki, Andrzej, et al. Nonnegative matrix and tensor factorizations: applications to exploratory multi-way data analysis and blind source separation. John Wiley & Sons, 2009. [(Book)](http://www.academia.edu/download/46426061/Nonnegative_Matrix_and_Tensor_Factorizat20160612-12469-1usk837.pdf) 
 
+### Big data and new decomposition algorithm
 Cichocki, Andrzej. "Era of big data processing: A new approach via tensor networks and tensor decompositions." arXiv preprint arXiv:1403.2048 (2014).[(Paper)](https://arxiv.org/pdf/1403.2048.pdf) 
 
+### Tensor decomposition and data fusion
 Lahat, Dana, Tülay Adali, and Christian Jutten. "Multimodal data fusion: an overview of methods, challenges, and prospects." Proceedings of the IEEE 103.9 (2015): 1449-1477.[(Paper)](https://mdsoar.org/bitstream/handle/11603/10867/Lahat_Adali_Jutten_DataFusion_2015.pdf?sequence=1&isAllowed=y) 
+
+### A good paper to understant tensor networks
+Orús, Román. "A practical introduction to tensor networks: Matrix product states and projected entangled pair states." Annals of Physics 349 (2014): 117-158.[(Paper)](https://arxiv.org/pdf/1306.2164.pdf;)
 
