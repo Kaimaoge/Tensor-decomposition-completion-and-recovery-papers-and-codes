@@ -12,6 +12,6 @@ Cichocki, Andrzej. "Era of big data processing: A new approach via tensor networ
 ### Tensor decomposition and data fusion
 Lahat, Dana, Tülay Adali, and Christian Jutten. "Multimodal data fusion: an overview of methods, challenges, and prospects." Proceedings of the IEEE 103.9 (2015): 1449-1477.[(Paper)](https://mdsoar.org/bitstream/handle/11603/10867/Lahat_Adali_Jutten_DataFusion_2015.pdf?sequence=1&isAllowed=y) 
 
-### A good paper to understant tensor networks
+### A good paper to understand tensor networks
 Orús, Román. "A practical introduction to tensor networks: Matrix product states and projected entangled pair states." Annals of Physics 349 (2014): 117-158.[(Paper)](https://arxiv.org/pdf/1306.2164.pdf;)
 
