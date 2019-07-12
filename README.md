@@ -15,3 +15,11 @@ Lahat, Dana, Tülay Adali, and Christian Jutten. "Multimodal data fusion: an ove
 ### A good paper to understand tensor networks
 Orús, Román. "A practical introduction to tensor networks: Matrix product states and projected entangled pair states." Annals of Physics 349 (2014): 117-158.[(Paper)](https://arxiv.org/pdf/1306.2164.pdf;)
 
+## Tensor completion
+
+### First definition of tensor nuclear norm, and transformation of tensor completion into a convex problem
+Liu, Ji, et al. "Tensor completion for estimating missing values in visual data." IEEE transactions on pattern analysis and machine intelligence 35.1 (2012): 208-220.[(Paper)](https://repository.kaust.edu.sa/bitstream/handle/10754/562566/2012.PAMI.JiLiu.Tensor%20Completion.pdf?sequence=1) [(Code)](http://www.cs.rochester.edu/u/jliu/code/TensorCompletion.zip)
+
+#### A parallel work
+Gandy, Silvia, Benjamin Recht, and Isao Yamada. "Tensor completion and low-n-rank tensor recovery via convex optimization." Inverse Problems 27.2 (2011): 025010.[(Paper)](Gandy, Silvia, Benjamin Recht, and Isao Yamada. "Tensor completion and low-n-rank tensor recovery via convex optimization." Inverse Problems 27.2 (2011): 025010.)
+
