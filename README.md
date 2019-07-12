@@ -26,3 +26,11 @@ Gandy, Silvia, Benjamin Recht, and Isao Yamada. "Tensor completion and low-n-ran
 #### Trace norm of square matrix reshape of tensor (Theoritically more suitable for high dimensional tensor)
 Mu, Cun, et al. "Square deal: Lower bounds and improved relaxations for tensor recovery." International conference on machine learning. 2014. [(Paper)](http://proceedings.mlr.press/v32/mu14.pdf)
 
+## New decomposition
+
+### Tensor ring decomposition (Defined upon trace operation)
+Zhao, Qibin, et al. "Tensor ring decomposition." arXiv preprint arXiv:1606.05535 (2016).[(Paper)](https://arxiv.org/pdf/1606.05535.pdf)[(Matlab Code)](https://github.com/oscarmickelin/tensor-ring-decomposition)
+
+### Tensor train decomposition (analogy to matrix product state in quantum physics)
+Oseledets, Ivan V. "Tensor-train decomposition." SIAM Journal on Scientific Computing 33.5 (2011): 2295-2317. [(Paper)](https://www.researchgate.net/profile/Ivan_Oseledets2/publication/220412263_Tensor-Train_Decomposition/links/5bbfb5c5299bf1004c5a56e3/Tensor-Train-Decomposition.pdf) [(Matlab code)](https://github.com/oseledets/TT-Toolbox) [(Tensorflow code)](https://github.com/Bihaqo/t3f)
+
