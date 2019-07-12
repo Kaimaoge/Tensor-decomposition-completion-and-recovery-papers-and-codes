@@ -21,5 +21,8 @@ Orús, Román. "A practical introduction to tensor networks: Matrix product stat
 Liu, Ji, et al. "Tensor completion for estimating missing values in visual data." IEEE transactions on pattern analysis and machine intelligence 35.1 (2012): 208-220.[(Paper)](https://repository.kaust.edu.sa/bitstream/handle/10754/562566/2012.PAMI.JiLiu.Tensor%20Completion.pdf?sequence=1) [(Code)](http://www.cs.rochester.edu/u/jliu/code/TensorCompletion.zip)
 
 #### A parallel work
-Gandy, Silvia, Benjamin Recht, and Isao Yamada. "Tensor completion and low-n-rank tensor recovery via convex optimization." Inverse Problems 27.2 (2011): 025010.[(Paper)](Gandy, Silvia, Benjamin Recht, and Isao Yamada. "Tensor completion and low-n-rank tensor recovery via convex optimization." Inverse Problems 27.2 (2011): 025010.)
+Gandy, Silvia, Benjamin Recht, and Isao Yamada. "Tensor completion and low-n-rank tensor recovery via convex optimization." Inverse Problems 27.2 (2011): 025010. [(Paper)](https://arxiv.org/pdf/1311.6182)
+
+#### Trace norm of square matrix reshape of tensor (Theoritically more suitable for high dimensional tensor)
+Mu, Cun, et al. "Square deal: Lower bounds and improved relaxations for tensor recovery." International conference on machine learning. 2014. [(Paper)](http://proceedings.mlr.press/v32/mu14.pdf)
 
