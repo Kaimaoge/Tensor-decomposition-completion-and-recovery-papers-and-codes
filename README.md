@@ -26,6 +26,14 @@ Gandy, Silvia, Benjamin Recht, and Isao Yamada. "Tensor completion and low-n-ran
 #### Trace norm of square matrix reshape of tensor (Theoritically more suitable for high dimensional tensor)
 Mu, Cun, et al. "Square deal: Lower bounds and improved relaxations for tensor recovery." International conference on machine learning. 2014. [(Paper)](http://proceedings.mlr.press/v32/mu14.pdf)
 
+### Tensor decomposition and completion
+
+Acar, Evrim, et al. "Scalable tensor factorizations for incomplete data." Chemometrics and Intelligent Laboratory Systems 106.1 (2011): 41-56.[(Paper)](https://arxiv.org/pdf/1005.2197) [(Code)](https://www.tensortoolbox.org/cp_wopt_doc.html)- It has been a function of tensor toolbox
+
+#### Simultaneous decomposition and completion (nuclear norm as a prior)
+Chen, Yi-Lei, Chiou-Ting Hsu, and Hong-Yuan Mark Liao. "Simultaneous tensor decomposition and completion using factor priors." IEEE transactions on pattern analysis and machine intelligence 36.3 (2013): 577-591. [(Paper)](https://ir.nctu.edu.tw/bitstream/11536/23758/1/000331450100014.pdf) [(Code)](http://
+doi.ieeecomputersociety.org/10.1109/TPAMI.2013.164) (supplementary material)
+
 ## New decomposition
 
 ### Tensor ring decomposition (Defined upon trace operation)
