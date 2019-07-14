@@ -31,8 +31,7 @@ Mu, Cun, et al. "Square deal: Lower bounds and improved relaxations for tensor r
 Acar, Evrim, et al. "Scalable tensor factorizations for incomplete data." Chemometrics and Intelligent Laboratory Systems 106.1 (2011): 41-56.[(Paper)](https://arxiv.org/pdf/1005.2197) [(Code)](https://www.tensortoolbox.org/cp_wopt_doc.html)- It has been a function of tensor toolbox
 
 #### Simultaneous decomposition and completion (nuclear norm as a prior)
-Chen, Yi-Lei, Chiou-Ting Hsu, and Hong-Yuan Mark Liao. "Simultaneous tensor decomposition and completion using factor priors." IEEE transactions on pattern analysis and machine intelligence 36.3 (2013): 577-591. [(Paper)](https://ir.nctu.edu.tw/bitstream/11536/23758/1/000331450100014.pdf) [(Code)](http://
-doi.ieeecomputersociety.org/10.1109/TPAMI.2013.164) (supplementary material)
+Chen, Yi-Lei, Chiou-Ting Hsu, and Hong-Yuan Mark Liao. "Simultaneous tensor decomposition and completion using factor priors." IEEE transactions on pattern analysis and machine intelligence 36.3 (2013): 577-591. [(Paper)](https://ir.nctu.edu.tw/bitstream/11536/23758/1/000331450100014.pdf) [(Code)](https://www.computer.org/csdl/journal/tp/2014/03/ttp2014030577/13rRUxASuNM)-supplementary material
 
 ## New decomposition
 
