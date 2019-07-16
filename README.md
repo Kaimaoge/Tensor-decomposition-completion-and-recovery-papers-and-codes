@@ -33,6 +33,12 @@ Acar, Evrim, et al. "Scalable tensor factorizations for incomplete data." Chemom
 #### Simultaneous decomposition and completion (nuclear norm as a prior)
 Chen, Yi-Lei, Chiou-Ting Hsu, and Hong-Yuan Mark Liao. "Simultaneous tensor decomposition and completion using factor priors." IEEE transactions on pattern analysis and machine intelligence 36.3 (2013): 577-591. [(Paper)](https://ir.nctu.edu.tw/bitstream/11536/23758/1/000331450100014.pdf) [(Code)](https://www.computer.org/csdl/journal/tp/2014/03/ttp2014030577/13rRUxASuNM)-supplementary material
 
+#### Bayesian CP factorization for incomplete tensor
+Zhao, Qibin, Liqing Zhang, and Andrzej Cichocki. "Bayesian CP factorization of incomplete tensors with automatic rank determination." IEEE transactions on pattern analysis and machine intelligence 37.9 (2015): 1751-1763. [(Paper)](https://arxiv.org/pdf/1401.6497) [(Code)](https://github.com/qbzhao/BCPF)
+
+#### Smooth prior for CP factorization (Achieves the best performance in my comparison experiments)
+Yokota, Tatsuya, Qibin Zhao, and Andrzej Cichocki. "Smooth PARAFAC decomposition for tensor completion." IEEE Transactions on Signal Processing 64.20 (2016): 5423-5436.([Paper])(https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7502115) [(Code)](https://drive.google.com/file/d/15xk67wYZ9GI2Kn93g_aaA4CsmgnqGlHE/view)
+
 ## New decomposition
 
 ### Tensor ring decomposition (Defined upon trace operation)
