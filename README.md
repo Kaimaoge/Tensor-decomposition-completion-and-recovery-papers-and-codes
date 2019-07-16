@@ -37,7 +37,7 @@ Chen, Yi-Lei, Chiou-Ting Hsu, and Hong-Yuan Mark Liao. "Simultaneous tensor deco
 Zhao, Qibin, Liqing Zhang, and Andrzej Cichocki. "Bayesian CP factorization of incomplete tensors with automatic rank determination." IEEE transactions on pattern analysis and machine intelligence 37.9 (2015): 1751-1763. [(Paper)](https://arxiv.org/pdf/1401.6497) [(Code)](https://github.com/qbzhao/BCPF)
 
 #### Smooth prior for CP factorization (Achieves the best performance in my comparison experiments)
-Yokota, Tatsuya, Qibin Zhao, and Andrzej Cichocki. "Smooth PARAFAC decomposition for tensor completion." IEEE Transactions on Signal Processing 64.20 (2016): 5423-5436.([Paper])(https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7502115) [(Code)](https://drive.google.com/file/d/15xk67wYZ9GI2Kn93g_aaA4CsmgnqGlHE/view)
+Yokota, Tatsuya, Qibin Zhao, and Andrzej Cichocki. "Smooth PARAFAC decomposition for tensor completion." IEEE Transactions on Signal Processing 64.20 (2016): 5423-5436.[(Paper)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7502115) [(Code)](https://drive.google.com/file/d/15xk67wYZ9GI2Kn93g_aaA4CsmgnqGlHE/view)
 
 ## New decomposition
 
