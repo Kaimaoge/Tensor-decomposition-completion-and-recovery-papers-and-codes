@@ -39,6 +39,13 @@ Zhao, Qibin, Liqing Zhang, and Andrzej Cichocki. "Bayesian CP factorization of i
 #### Smooth prior for CP factorization (Achieves the best performance in my comparison experiments)
 Yokota, Tatsuya, Qibin Zhao, and Andrzej Cichocki. "Smooth PARAFAC decomposition for tensor completion." IEEE Transactions on Signal Processing 64.20 (2016): 5423-5436.[(Paper)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7502115) [(Code)](https://drive.google.com/file/d/15xk67wYZ9GI2Kn93g_aaA4CsmgnqGlHE/view)
 
+#### A tensor completion framework fused multiple priors
+Wu, Y., Tan, H., Li, Y., Zhang, J., & Chen, X. (2018). A fused CP factorization method for incomplete tensors. IEEE transactions on neural networks and learning systems, 30(3), 751-764.
+
+#### Beyond low-rank, mixture gaussian for tensor modeling
+Zhang, L., Wei, W., Shi, Q., Shen, C., Hengel, A. V. D., & Zhang, Y. (2017). Beyond low rank: A data-adaptive tensor completion method. arXiv preprint arXiv:1708.01008.[(Paper)](https://arxiv.org/pdf/1708.01008.pdf)
+
+
 ## New decomposition
 
 ### Tensor ring decomposition (Defined upon trace operation)
