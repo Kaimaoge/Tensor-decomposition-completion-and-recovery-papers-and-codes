@@ -40,7 +40,7 @@ Zhao, Qibin, Liqing Zhang, and Andrzej Cichocki. "Bayesian CP factorization of i
 Yokota, Tatsuya, Qibin Zhao, and Andrzej Cichocki. "Smooth PARAFAC decomposition for tensor completion." IEEE Transactions on Signal Processing 64.20 (2016): 5423-5436.[(Paper)](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7502115) [(Code)](https://drive.google.com/file/d/15xk67wYZ9GI2Kn93g_aaA4CsmgnqGlHE/view)
 
 #### A tensor completion framework fused multiple priors
-Wu, Y., Tan, H., Li, Y., Zhang, J., & Chen, X. (2018). A fused CP factorization method for incomplete tensors. IEEE transactions on neural networks and learning systems, 30(3), 751-764.
+Wu, Y., Tan, H., Li, Y., Zhang, J., & Chen, X. (2018). A fused CP factorization method for incomplete tensors. IEEE transactions on neural networks and learning systems, 30(3), 751-764. [(Nonnegative factorization Code)](https://github.com/Kaimaoge/Collections-of-tensor-reconstruction-papers/tree/master/NonnegativeFCP)
 
 #### Beyond low-rank, mixture gaussian for tensor modeling
 Zhang, L., Wei, W., Shi, Q., Shen, C., Hengel, A. V. D., & Zhang, Y. (2017). Beyond low rank: A data-adaptive tensor completion method. arXiv preprint arXiv:1708.01008.[(Paper)](https://arxiv.org/pdf/1708.01008.pdf)
@@ -53,4 +53,7 @@ Zhao, Qibin, et al. "Tensor ring decomposition." arXiv preprint arXiv:1606.05535
 
 ### Tensor train decomposition (analogy to matrix product state in quantum physics)
 Oseledets, Ivan V. "Tensor-train decomposition." SIAM Journal on Scientific Computing 33.5 (2011): 2295-2317. [(Paper)](https://www.researchgate.net/profile/Ivan_Oseledets2/publication/220412263_Tensor-Train_Decomposition/links/5bbfb5c5299bf1004c5a56e3/Tensor-Train-Decomposition.pdf) [(Matlab code)](https://github.com/oseledets/TT-Toolbox) [(Tensorflow code)](https://github.com/Bihaqo/t3f)
+
+
+### To be continued
 
