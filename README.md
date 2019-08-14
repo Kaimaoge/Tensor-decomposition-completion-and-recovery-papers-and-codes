@@ -53,13 +53,16 @@ Zhang, L., Wei, W., Shi, Q., Shen, C., Hengel, A. V. D., & Zhang, Y. (2017). Bey
 
 ## Tensor recovery
 
-### An extension of matrix RPCA to tensor recovery `Tensor is modeled as a combination of a low-rank component and a sparse component`
+### First attempt to model tensor recovery as a RPCA problem
+Li, Y., Yan, J., Zhou, Y. and Yang, J., 2010, September. Optimum subspace learning and error correction for tensors. In European Conference on Computer Vision (pp. 790-803). Springer, Berlin, Heidelberg.[(Paper)](https://pdfs.semanticscholar.org/cab0/f789fc311c45045e5fef3f27c67b08b1e094.pdf)
+
+### An extension of matrix RPCA to tensor recovery- A summary `Tensor is modeled as a combination of a low-rank component and a sparse component`
 Goldfarb, D. and Qin, Z., 2014. Robust low-rank tensor recovery: Models and algorithms. SIAM Journal on Matrix Analysis and Applications, 35(1), pp.225-253. [(Paper)](https://arxiv.org/pdf/1311.6182)
 
 
 ## New decomposition
 
-### Tensor ring decomposition (Defined upon trace operation)
+### Tensor ring decomposition `Defined upon trace operation`
 Zhao, Qibin, et al. "Tensor ring decomposition." arXiv preprint arXiv:1606.05535 (2016).[(Paper)](https://arxiv.org/pdf/1606.05535.pdf)[(Matlab Code)](https://github.com/oscarmickelin/tensor-ring-decomposition)
 
 ### Tensor train decomposition `analogy to matrix product state in quantum physics`
