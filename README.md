@@ -30,7 +30,7 @@ Mu, Cun, et al. "Square deal: Lower bounds and improved relaxations for tensor r
 
 Acar, Evrim, et al. "Scalable tensor factorizations for incomplete data." Chemometrics and Intelligent Laboratory Systems 106.1 (2011): 41-56.[(Paper)](https://arxiv.org/pdf/1005.2197) [(Code)](https://www.tensortoolbox.org/cp_wopt_doc.html)- It has been a function of tensor toolbox
 
-#### tensor singular value decomposition (t-SVD)
+#### Tensor singular value decomposition (t-SVD) `It is only applicable to 3-way tensor`
 Zhang, Zemin, Gregory Ely, Shuchin Aeron, Ning Hao, and Misha Kilmer. "Novel methods for multilinear data completion and de-noising based on tensor-SVD." In Proceedings of the IEEE conference on computer vision and pattern recognition, pp. 3842-3849. 2014.[(Paper)](http://openaccess.thecvf.com/content_cvpr_2014/papers/Zhang_Novel_Methods_for_2014_CVPR_paper.pdf)
 
 #### Simultaneous decomposition and completion (nuclear norm as a prior)
