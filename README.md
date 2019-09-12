@@ -59,6 +59,13 @@ Li, Y., Yan, J., Zhou, Y. and Yang, J., 2010, September. Optimum subspace learni
 ### An extension of matrix RPCA to tensor recovery- A summary `Tensor is modeled as a combination of a low-rank component and a sparse component`
 Goldfarb, D. and Qin, Z., 2014. Robust low-rank tensor recovery: Models and algorithms. SIAM Journal on Matrix Analysis and Applications, 35(1), pp.225-253. [(Paper)](https://arxiv.org/pdf/1311.6182)
 
+### Modeling noise/outlier with other distribution/norms
+#### l2.1 norm, the outlier is sparse along one specific dimension
+Zhou, P., & Feng, J. (2017). Outlier-robust tensor PCA. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (pp. 2263-2271). [(Paper)](http://openaccess.thecvf.com/content_cvpr_2017/papers/Zhou_Outlier-Robust_Tensor_PCA_CVPR_2017_paper.pdf)
+
+#### The distribution is capable of modeling both sparse and dense noise
+Yang, Y., Feng, Y., & Suykens, J. A. (2015). Robust low-rank tensor recovery with regularized redescending M-estimator. IEEE transactions on neural networks and learning systems, 27(9), 1933-1946.
+
 
 ## New decomposition
 
